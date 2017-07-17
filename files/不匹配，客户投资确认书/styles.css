@@ -120,7 +120,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:310px;
+  width:324px;
   height:104px;
 }
 #u1143 {
@@ -128,7 +128,7 @@
   position:absolute;
   left:27px;
   top:152px;
-  width:309px;
+  width:323px;
   height:103px;
   line-height:28px;
 }
@@ -137,7 +137,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:309px;
+  width:323px;
   white-space:nowrap;
 }
 #u1145_img {
@@ -172,7 +172,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-7px;
   width:361px;
   height:605px;
   overflow:hidden;
@@ -227,8 +227,8 @@
 }
 #u1150 {
   position:absolute;
-  left:47px;
-  top:158px;
+  left:61px;
+  top:151px;
   visibility:hidden;
 }
 #u1150_state0 {
